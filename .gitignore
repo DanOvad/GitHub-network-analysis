@@ -1,0 +1,15 @@
+
+
+
+
+# py cache
+__pycache__
+
+
+
+# ipynb checkpoints
+.ipynb_checkpoints/
+*ipynb_checkpoints
+.ipynbc-checkpoints*
+
+
