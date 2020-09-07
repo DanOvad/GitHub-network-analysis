@@ -9,7 +9,8 @@ __pycache__
 .ipynbc-checkpoints*
 
 # Do not include configuration file
-config/
+config.py
+config*
 
 #Do not include scratch folders, subdirectories, or files
 *scratch/
